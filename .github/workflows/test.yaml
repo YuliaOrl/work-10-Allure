@@ -16,4 +16,4 @@ jobs:
           distribution: 'zulu'
           java-version: '11'
       # запускаем тесты
-      - run: ./qradlew clean test
+      - run: ./gradlew clean test
