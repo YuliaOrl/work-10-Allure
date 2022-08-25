@@ -6,7 +6,7 @@ jobs:
   test:
     # где запускаем
     runs-on: ubuntu-latest
-    # что делаем
+    # что делаем?
     steps:
       # выкачиваем репозиторий
       - uses: actions/checkout@v3
