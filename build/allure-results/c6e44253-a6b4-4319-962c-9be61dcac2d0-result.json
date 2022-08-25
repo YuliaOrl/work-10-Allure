@@ -1,0 +1,55 @@
+{
+  "attachments": [],
+  "description": "",
+  "fullName": "guru.qa.SelenideTest.testIssueSearch",
+  "historyId": "b8275bee8199b0d69cf365d2ea1e32fd",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:guru.qa.SelenideTest]/[method:testIssueSearch()]"
+    },
+    {
+      "name": "host",
+      "value": "alex112233"
+    },
+    {
+      "name": "thread",
+      "value": "11128@alex112233.Test worker(1)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "guru.qa.SelenideTest"
+    },
+    {
+      "name": "testClass",
+      "value": "guru.qa.SelenideTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testIssueSearch"
+    },
+    {
+      "name": "suite",
+      "value": "guru.qa.SelenideTest"
+    }
+  ],
+  "links": [],
+  "name": "testIssueSearch()",
+  "parameters": [],
+  "stage": "finished",
+  "start": 1661348714196,
+  "status": "passed",
+  "steps": [],
+  "stop": 1661348723056,
+  "testCaseId": "[engine:junit-jupiter]/[class:guru.qa.SelenideTest]/[method:testIssueSearch()]",
+  "testCaseName": "testIssueSearch()",
+  "uuid": "c6e44253-a6b4-4319-962c-9be61dcac2d0"
+}
