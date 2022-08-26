@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 26 18:57:39 GMT 2022","Fri Aug 26 18:57:39 GMT 2022","11","","guru.qa.LabelsTest","","guru.qa.LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Fri Aug 26 18:57:34 GMT 2022","Fri Aug 26 18:57:39 GMT 2022","4809","","guru.qa.AttachmentsTest","","guru.qa.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Fri Aug 26 18:57:46 GMT 2022","Fri Aug 26 18:57:48 GMT 2022","2405","","guru.qa.StepsTest","","guru.qa.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Fri Aug 26 18:57:28 GMT 2022","Fri Aug 26 18:57:34 GMT 2022","5515","","guru.qa.AttachmentsTest","","guru.qa.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Fri Aug 26 18:57:39 GMT 2022","Fri Aug 26 18:57:39 GMT 2022","9","","guru.qa.LabelsTest","","guru.qa.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Fri Aug 26 18:57:48 GMT 2022","Fri Aug 26 18:57:51 GMT 2022","2563","","guru.qa.StepsTest","","guru.qa.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Fri Aug 26 18:57:39 GMT 2022","Fri Aug 26 18:57:46 GMT 2022","7083","","guru.qa.SelenideTest","","guru.qa.SelenideTest","testIssueSearch","testIssueSearch()",""
